@@ -1,0 +1,27 @@
+{
+  "name": "PolymerApp",
+  "homepage": "https://github.com/amalgta/PolymerApp",
+  "authors": [
+    "Amal George Thomas <amal.george@flytxt.com>"
+  ],
+  "description": "An application to test the capabilities of the Polymer Platform",
+  "main": "index.htm",
+  "keywords": [
+    "gta"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "webcomponentsjs": "Polymer/webcomponentsjs#^0.7.23",
+    "core-elements": "Polymer/core-elements#^0.5.6",
+    "paper-elements": "Polymer/paper-elements#^0.5.6",
+    "app-layout": "PolymerElements/app-layout#^0.10.6"
+  }
+}
